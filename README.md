@@ -93,6 +93,6 @@ Then open the local URL Streamlit provides, enter a message, and click **Check f
 - Add multilingual support for non-English SMS content
 - Containerize the app with Docker for simpler deployment
 
-## 📄 License
+##  License
 
 This project is open source and available for personal and educational use.
